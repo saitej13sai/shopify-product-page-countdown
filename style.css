@@ -1,0 +1,23 @@
+#clock-ticker .block {
+  color: #000;
+  font-weight: bold;
+  float: left;
+  text-align: center;
+  width: 25%;
+}
+.flip-top {
+  font-size: 40px;
+  line-height: 40px;
+}
+.label {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.items-count p {
+  font-weight: bold;
+  color: #ca0000;
+  font-family: "Open Sans", Arial, sans-serif;
+  text-align: center;
+  font-size: 18px;
+}
