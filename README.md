@@ -1,20 +1,26 @@
-# Shopify Product Countdown & Stock Progress Bar
+# 🛍️ Shopify Product Countdown Timer ⏳
 
-This project adds a live countdown timer and dynamic stock progress bar to a Shopify product page. It creates urgency using a real-time UI and decreasing inventory indicator.
+A dynamic stock urgency + countdown timer designed for Shopify product pages.
 
-## Features
-- Countdown timer for days, hours, minutes, and seconds
-- Stock progress bar that auto-updates
-- Randomized stock left simulation
-- Responsive, mobile-friendly layout
+## 🚀 Features
 
-## Installation
-1. Add the code to your Shopify `product.liquid` or desired section.
-2. Customize `total_items`, `min_items_left`, and time values in JavaScript.
-3. Save and preview in your product page.
+- Live countdown timer ⏰
+- Randomized low stock warning 🛒
+- Stylish, responsive, and emoji-enhanced 🎉
+- Easy copy-paste integration with Shopify's `product.liquid`
+
+## 🖼️ Preview
 
 
-Contributions welcome!
+
+## 🛠️ Usage
+
+Paste the full code inside `product.liquid` under the Add to Cart button.
+
+## 📦 Technologies
+
+- HTML, CSS, JavaScript (jQuery)
+
 
 
 
