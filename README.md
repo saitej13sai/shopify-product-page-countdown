@@ -10,6 +10,7 @@ A dynamic stock urgency + countdown timer designed for Shopify product pages.
 - Easy copy-paste integration with Shopify's `product.liquid`
 
 ## 🖼️ Preview
+![Alt text]("C:\Users\saite\Pictures\Screenshots\Screenshot 2025-04-07 120628.png")
 
 
 
